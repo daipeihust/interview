@@ -22,3 +22,5 @@
 20. 您是否进行代码审查和 / 或结对编程？
 21. 什么是 FRP（Functional Reactive Programming）及其在 iOS 平台中的地位？
 22. 你知道哪些 iOS 架构有这么大的规模？
+
+> 出处：[https://juejin.cn/post/6989138320143941639](https://juejin.cn/post/6989138320143941639)
