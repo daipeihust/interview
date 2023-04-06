@@ -121,3 +121,5 @@
 - [DLL 和 Visual C++ 运行时库行为](https://learn.microsoft.com/zh-cn/cpp/build/run-time-library-behavior?view=msvc-170)
 - [模板函数](https://learn.microsoft.com/zh-cn/cpp/cpp/function-templates?view=msvc-170)
 - [C++学习资料整理](https://github.com/0voice/cpp_new_features)
+- [《C++ Primer Plus》](https://awesome-programming-books.github.io/c++/C++%20Primer%20Plus%EF%BC%88%E7%AC%AC5%E7%89%88%EF%BC%89.pdf)
+- [《C++ 编程思想》](https://awesome-programming-books.github.io/c++/C++%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%EF%BC%88%E7%AC%AC1%E5%8D%B7%EF%BC%89.pdf)
