@@ -120,3 +120,4 @@
 - [总说 c++ 写底层，但是底层是什么，c++ 怎么写？](https://www.techug.com/post/why-write-base-layer-use-cpp/)
 - [DLL 和 Visual C++ 运行时库行为](https://learn.microsoft.com/zh-cn/cpp/build/run-time-library-behavior?view=msvc-170)
 - [模板函数](https://learn.microsoft.com/zh-cn/cpp/cpp/function-templates?view=msvc-170)
+- [C++学习资料整理](https://github.com/0voice/cpp_new_features)
