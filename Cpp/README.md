@@ -119,3 +119,4 @@
 - [C++编译底层](https://zwiley.github.io/mybook/%E5%9F%BA%E7%A1%80%E8%AF%AD%E8%A8%80/C%2B%2B%E7%BC%96%E8%AF%91%E5%BA%95%E5%B1%82/)
 - [总说 c++ 写底层，但是底层是什么，c++ 怎么写？](https://www.techug.com/post/why-write-base-layer-use-cpp/)
 - [DLL 和 Visual C++ 运行时库行为](https://learn.microsoft.com/zh-cn/cpp/build/run-time-library-behavior?view=msvc-170)
+- [模板函数](https://learn.microsoft.com/zh-cn/cpp/cpp/function-templates?view=msvc-170)
