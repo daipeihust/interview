@@ -11,8 +11,8 @@
 9. 解释和展示 SOLID 原则的例子？
 10. 在 iOS 上实现存储和持久化有哪些选择？
 11. 在 iOS 上实现网络和 HTTP 有哪些选择？
-12. 如何以及何时在 iOS 上序列化和映射数据？
-13. 在 iOS 上布局 UI 的选项有哪些？    解析：[应该什么时候使用codable](https://medium.com/@jasonyuh/%E5%BA%94%E8%AF%A5%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BD%BF%E7%94%A8codable-f99d6ac5810)
+12. 如何以及何时在 iOS 上序列化和映射数据？    解析：[应该什么时候使用codable](https://medium.com/@jasonyuh/%E5%BA%94%E8%AF%A5%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BD%BF%E7%94%A8codable-f99d6ac5810)
+13. 在 iOS 上布局 UI 的选项有哪些？
 14. 如何优化动态调整大小的表格或集合视图的滚动性能？    解析：[UITableView 性能调优](https://developer.aliyun.com/article/1142313)
 15. 你如何在 iOS 上执行异步任务？
 16. 你如何管理依赖关系？
