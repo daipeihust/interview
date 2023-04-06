@@ -115,3 +115,4 @@
 
 - [史上最全，C++ 后端开发面试题与知识点汇总](https://zhuanlan.zhihu.com/p/101136373)
 - [C++ 底层是如何实现的](https://www.zhihu.com/question/27035589)
+- [浅谈 C++ 底层机制](https://www.cnblogs.com/kunhu/archive/2012/12/30/2839886.html)
