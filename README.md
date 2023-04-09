@@ -4,15 +4,15 @@
 
 ## Cpp
 
-[常见问题](./Cpp/README.md)
+- [常见问题](./Cpp/README.md)
 
 ## iOS
 
-[常见问题](./iOS/README.md)
+- [常见问题](./iOS/README.md)
 
 ## Architecture
 
-[架构师之路](https://www.w3cschool.cn/architectroad/)
-[Common Guide](./guide/README.md)
+- [架构师之路](https://www.w3cschool.cn/architectroad/)
+- [Common Guide](./guide/README.md)
 
 
