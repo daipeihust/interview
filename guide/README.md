@@ -1,6 +1,6 @@
 # Guide
 
-## JSON
+## common
 
 - [JSON style guide](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
 - [HTTP API guide](https://github.com/bolasblack/http-api-guide)
