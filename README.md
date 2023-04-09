@@ -13,3 +13,6 @@
 ## Architecture
 
 [架构师之路](https://www.w3cschool.cn/architectroad/)
+[Common Guide](./guide/README.md)
+
+
