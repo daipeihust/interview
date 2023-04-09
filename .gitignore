@@ -1,6 +1,7 @@
 # Prerequisites
 *.d
 .DS_Store
+books
 
 # Object files
 *.o
