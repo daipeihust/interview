@@ -4,17 +4,17 @@
 
 ## Cpp
 
-- [常见问题](./Cpp/README.md)
+- [collection](./Cpp/README.md)
 
 ## iOS
 
-- [常见问题](./iOS/README.md)
+- [collection](./iOS/README.md)
 
 ## Architecture
 
 - [架构师之路](https://www.w3cschool.cn/architectroad/)
-- [Common Guide](./guide/README.md)
+- [colletion](./guide/README.md)
 
 ## Python
 
-- [合集](./python/README.md)
+- [collection](./python/README.md)
