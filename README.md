@@ -4,7 +4,7 @@
 
 ## Cpp
 
-- [collection](./Cpp/README.md)
+- [collection](./cpp/README.md)
 
 ## iOS
 
